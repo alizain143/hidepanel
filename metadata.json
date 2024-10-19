@@ -1,0 +1,8 @@
+{
+  "uuid": "panel-intellihide@zain",
+  "name": "Panel Intellihide",
+  "description": "Hides the panel when windows overlap it.",
+  "version": 1,
+  "shell-version": ["42"],
+  "url": "https://github.com/yourname/panel-intellihide"
+}
